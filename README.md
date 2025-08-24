@@ -3,7 +3,7 @@
 
 ![PedroBZR12's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroBZR12&show_icons=true&theme=dark)
 ##
-### Tecnologias usadas em meus repositórios!
+### Tecnologias mais usadas em meus repositórios este ano!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBZR12&size_weight=0.5&count_weight=0.5)
 
