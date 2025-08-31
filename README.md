@@ -5,7 +5,7 @@
 ##
 ### Tecnologias mais usadas em meus repositórios este ano!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBZR12&size_weight=0.5&count_weight=0.5)
+
 
 ##
 ### Contato:
