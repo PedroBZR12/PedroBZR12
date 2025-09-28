@@ -1,12 +1,12 @@
 ## Olá! Me chamo Pedro Bizzari!
 - Estou atualmente cursando Ciências da Computação na PUCSP!
-  - Me considero paciente, assíduo, gentil, honesto, atencioso, proativo e o mais importante, criativo!
+  - Sou paciente, assíduo, gentil, honesto, atencioso, proativo e o mais importante: criativo!
   - Gosto de resolver problemas com soluções criativas.
   - Possuo interesse de atuar como um profissional Full Stack, desenvolvendo aplicativos, sites e outros produtos relacionados a tecnologia!
-  - Gosto de ler, ir à academia, jogar videogame e cozinhar no meu tempo livre!
+  - Gosto de ler, ir à academia, estudar, investir e tornar minhas ideias em realidade no meu tempo livre.
   - Tenho conhecimento em: Python, Java, Javascript, C, C#, MySQL, HTML, CSS, React JS, Node JS, Pacote Office completo, Adobe Photoshop e git.
-  - Nas diversas avaliações que fiz em escolas de inglês, fui classificado no B2, porém não possuo certificado ainda.,
-  - Estou participando de uma iniciação científica, sendo esta o desenvolvimento de um aplicativo para ajudar a formar futuros programadores e ajudar quem já atua na área.
+  - Atualmente estou no curso do Yázigi de inglês.
+  - Estou participando de uma iniciação científica, sendo esta o desenvolvimento de uma plataforma gamificada para controbuir na formação de futuros programadores e reforçar o conhecimento de quem já atua na área.
 ##
 
 ![PedroBZR12's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroBZR12&show_icons=true&theme=dark)
