@@ -10,6 +10,8 @@
 ##
 ### Contato:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-bizzari-608016138)
+
+Site: https://pedrobzr12.github.io
 ##
 ### Conhecimentos que possuo!
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
