@@ -4,7 +4,7 @@
   - Gosto de resolver problemas com soluções criativas.
   - Possuo interesse de atuar como um profissional Full Stack, desenvolvendo aplicativos, sites e outros produtos relacionados a tecnologia!
   - Gosto de ler, ir à academia, estudar, investir e tornar minhas ideias em realidade no meu tempo livre.
-  - Tenho conhecimento em: Python, Java, Javascript, C, C#, MySQL, HTML, CSS, React JS, Node JS, Pacote Office completo, Adobe Photoshop e git.
+  - Tenho conhecimento em: Python, Java, Javascript, C, C#, MySQL, HTML, CSS, React JS, Node JS, Pacote Office completo, Adobe Photoshop, React Native, Postgree SQL e git.
   - Atualmente estou no curso do Yázigi de inglês.
   - Estou participando de uma iniciação científica, sendo esta o desenvolvimento de uma plataforma gamificada para controbuir na formação de futuros programadores e reforçar o conhecimento de quem já atua na área.
 ##
