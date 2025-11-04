@@ -6,7 +6,7 @@
   - Gosto de ler, ir à academia, estudar, investir e tornar minhas ideias em realidade no meu tempo livre.
   - Tenho conhecimento em: Python, Java, Javascript, C, C#, MySQL, HTML, CSS, React JS, Node JS, Pacote Office completo, Adobe Photoshop, React Native, Postgree SQL e git.
   - Atualmente estou no curso do Yázigi de inglês.
-  - Estou participando de uma iniciação científica, sendo esta o desenvolvimento de uma plataforma gamificada para controbuir na formação de futuros programadores e reforçar o conhecimento de quem já atua na área.
+  - Estou participando de uma iniciação científica, sendo esta o desenvolvimento de uma plataforma gamificada para contribuir na formação de futuros programadores e reforçar o conhecimento de quem já atua na área.
 ##
 
 ![PedroBZR12's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroBZR12&show_icons=true&theme=dark)
