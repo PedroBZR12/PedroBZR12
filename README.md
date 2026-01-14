@@ -51,6 +51,8 @@ Ferramentas:
 Portfólio: https://pedrobzr12.github.io
 ##
 
-###  Sempre aberto a aprender, colaborar e criar soluções que gerem impacto.
-
 ![PedroBZR12's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroBZR12&show_icons=true&theme=dark)
+
+##
+
+###  Sempre aberto a aprender, colaborar e criar soluções que gerem impacto.
