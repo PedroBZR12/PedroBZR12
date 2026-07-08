@@ -1,24 +1,24 @@
-## Olá! Me chamo Pedro Bizzari!
-- Sou estudante de **Ciência da Computação** na **PUC-SP**
-- Desenvolvedor **Full Stack** em formação.
-- Em busca de oportunidades de **estágio** e crescimento profissional.
+## Hi there! I'm Pedro Bizzari!
+- **Computer Science** student at **PUC-SP**
+- Aspiring **Full Stack Developer**
+- Seeking **internship** and professional growth opportunities
 
-Sou uma pessoa proativa, criativa e comprometida com aprendizado contínuo.  
-Gosto de resolver problemas de forma prática e criativa, transformando ideias em soluções funcionais.
+I am a proactive, creative professional committed to continuous learning. I enjoy solving problems in practical and innovative ways, turning ideas into functional solutions.
 
-Atualmente, participo de uma **iniciação científica**, onde desenvolvo uma **plataforma gamificada** voltada à formação de novos programadores e ao reforço de conhecimentos para quem já atua na área.
-##
+Currently, I am part of an **undergraduate research project**, where I am developing a **gamified platform** aimed at training new programmers and reinforcing knowledge for those already working in the field.
 
-### Areas de interesse
-- Desenvolvimento Full Stack  
-- Aplicações Web e Mobile  
-- APIs e Back-end
+---
 
-##
+### Areas of Interest
+- Full Stack Development
+- Web and Mobile Applications
+- APIs and Back-end
 
-### Tecnologias e ferramentas
+---
 
-Linguagens: 
+### Technologies and Tools
+
+Languages: 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -36,20 +36,20 @@ Back-End:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-Ferramentas:
+Tools:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-##
+---
 
-### Contato:
+### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-bizzari-608016138)
 
-Portfólio: https://pedrobzr12.github.io
-##
+Portfolio: https://pedrobzr12.github.io
 
+---
 
-###  Sempre aberto a aprender, colaborar e criar soluções que gerem impacto.
+### Always open to learning, collaborating, and building impactful solutions.
