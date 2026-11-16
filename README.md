@@ -1,7 +1,7 @@
 ## Hi there! I'm Pedro Bizzari!
 - **Computer Science** student at **PUC-SP**
 - Aspiring **Full Stack Developer**
-- Seeking **internship** and professional growth opportunities
+- Seeking professional growth opportunities
 
 I am a proactive, creative professional committed to continuous learning. I enjoy solving problems in practical and innovative ways, turning ideas into functional solutions.
 
